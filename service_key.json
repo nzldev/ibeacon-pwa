@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ibeacon-app-browser",
+  "private_key_id": "0aa72e814f46b0d657e66134acf6f78c82264539",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCYwCHKWmF1FFkT\nfj9TWQq+1Q+4tIqwQSz08BLS5UlcZmEYQODg9t8lh8S31D9YeSN/ER20kAprGIQR\nZxaotAe+ispbuK0s6wAUGpsqQqAZ/tQjH4s3Otnx1G1CkoKdeNcAlSa97wgNR4Cz\nfYzeR0C+jPJae5F0fzulzK3H343vUgrqtyIxLsYkSKTGgAx6JExurzd35octowzi\n6lLKZeJFvgTBfWGqTGXV1xzpKOgMUr3Pt/NnUCAgwqNFJhX/uhwQG6kIxG8pPcxi\nA+1dyaqlbASovkdxH7bZkE5Q7BQ8a3B7HVIalULHxJuRUtUe9iFMq4gLrSCwmckH\nlN2J/6OJAgMBAAECggEAQj+GCDSVswkNrwIgpd3m5qgSZvnKcrH5tQuQJm5yGESA\n1NuCjJ8VXboaC95eUNlNF1WNjBuyoQsjcEbFEYrvFukr5YbdeK89O/rkE/qMZGnc\niJUsNFpuXs9SSb6wLmrT2LlXcaXDWLsLqw0HNPozLtGDZNHV3nA2Juzz681dyg6f\nw+WA9p1xvnu1amDBAScF9YcJH1E30Z4iCE+AC9F27K6r/pW2q7B9oOVc0awSWZAH\nLWlwj30N0JIkScGnHO+1Jdd1z59+wrE9dxEuD7r43DLyyOPQvnO2NylsvoHprCaY\nFxmi/rMDBvoTTwgHGsDmW1Bra7S/H3yjNlUHvPfVnwKBgQDRe+vjxond4y2VQisM\nWC0RKoaaHNJWQPPk3NF28QFbR/rpZw7vw+I6kt3S6xGhAjCYhJ202ozYFZBOp27z\nWrfLI1WdTlbjJ/fUWi3ns74A8PmKEphZEUW0UfN1PAdiDFxZ9LdACt1CxJCfZKzv\nT7EUMkaQBKx2LakAa90XAf1GQwKBgQC6qzQXXgSILBbS62Xcq38sDt73UeFJ9b/z\nzcq2ywSb50DyJ5P+6vK3NlHN5PRTuo1IKuca3JngDVKTVtRHB9KKKDdm41sVl9Up\n9MNfa67vL1uf6nxBBp+QeIw+vpznDlu0ikPYMNYI/gKDeJfrDbCt7+YMvvh2aj8c\nzXNHiazAQwKBgQCVtS4bliOpA1XsOWFybQGoJvAS604WfkzO3lCD5DDH/2T9sL0n\n9KGUoqkMtxneKyZ3mS7rtNS7CI4c5+OO3uJCtnnU9ct6g3HFvLzZvcan/Y8YcbmW\nzZU3DOokekX8eED3uL/NcPY3ZSrF/rjoPdebS2LKQczOmEsTFgLnEnDi6QKBgALB\nGfCqU3jK5b9Q99zMrwCwa3vMun1D4gQv6ijOUBAY1m18RgPB5bjsVUKreStvGjyR\nXX2Y+bBDog9IfbNamzGsrDyZaDOmXN/Um7lhtmATG8/9Pr4a4enYzYDzgQ8ruBCu\n5ZdgCRhy3wifk+ZE+nFmk8dmXfYpVSsQoP3SOzlPAoGBAJy6c8K7hNvw8fQ6604q\nsuVUdfK4MBkiCuiZ8ppgKUoLQu0ZDhVHop9+iQeZBwdHtIaxExeNEvkaogAnOs48\nNs5f0C32KHa18keITfYj3gRkg7Y/HBwPg1UTo4sb3s3LGRdra1mkHf90iqLtPgfB\n9Kawz4DeTxdUeu0VQjlvneda\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-zycux@ibeacon-app-browser.iam.gserviceaccount.com",
+  "client_id": "115948397906683737289",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-zycux%40ibeacon-app-browser.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
